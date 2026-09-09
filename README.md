@@ -2,6 +2,6 @@
 ### NIM : 25091397128
 ### Kelas : 2025D
 
-# Tugas Implementasi Algoritma Sorting
+# Tugas Implementasi _object, class, method_
 
-Repositori ini berisi implementasi 5 algoritma pengurutan (Sorting) menggunakan bahasa pemrograman Python dan C++.
+Repositori ini berisi implementasi _object, class, method_ 
